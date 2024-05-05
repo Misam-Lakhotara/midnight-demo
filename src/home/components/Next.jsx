@@ -1,5 +1,5 @@
 import React from "react";
-import Next1 from "./Next.jpg";
+import Next1 from "../../asset/Next.jpg";
 
 export default function Next() {
   return (

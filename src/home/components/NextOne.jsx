@@ -1,7 +1,7 @@
 import React from "react";
-import New from "./new.jpeg";
-import Map from "./Map.png";
-import MapDescription from "./MapDescription.png";
+import New from "../../asset/new.jpeg";
+import Map from "../../asset/Map.png";
+import MapDescription from "../../asset/MapDescription.png";
 
 export default function NextOne() {
   return (

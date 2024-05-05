@@ -1,9 +1,9 @@
 import React from "react";
-import New from "./new.jpeg";
-import Ss1 from "./ss1.png";
-import Ss2 from "./ss2.png";
-import Ss3 from "./ss3.png";
-import Ss4 from "./ss4.png";
+import New from "../../asset/new.jpeg";
+import Ss1 from "../../asset/ss1.png";
+import Ss2 from "../../asset/ss2.png";
+import Ss3 from "../../asset/ss3.png";
+import Ss4 from "../../asset/ss4.png";
 import RightArrow from "./RightArrow";
 import LeftArrow from "./LeftArrow";
 

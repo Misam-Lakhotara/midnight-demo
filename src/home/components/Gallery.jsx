@@ -1,19 +1,19 @@
 import React from "react";
-import NewFlower from "./NewFlower.jpg";
-import Gallery1 from "./Gallery1.png";
-import Gallery2 from "./Gallery2.png";
-import Gallery3 from "./Gallery3.png";
-import Gallery4 from "./Gallery4.png";
-import Gallery5 from "./Gallery5.png";
+import NewFlower from "../../asset/NewFlower.jpg";
+import Gallery1 from "../../asset/Gallery1.png";
+import Gallery2 from "../../asset/Gallery2.png";
+import Gallery3 from "../../asset/Gallery3.png";
+import Gallery4 from "../../asset/Gallery4.png";
+import Gallery5 from "../../asset/Gallery5.png";
 import LeftArrow from "./LeftArrow";
 import RightArrow from "./RightArrow";
-import Plan from "./Plan.png";
-import Specification1 from "./Specification1.png";
-import Specification2 from "./Specification2.png";
-import Specification3 from "./Specification3.png";
-import About from "./About.png";
-import Best from "./Best.png";
-import Icon from "./Icon.png";
+import Plan from "../../asset/Plan.png";
+import Specification1 from "../../asset/Specification1.png";
+import Specification2 from "../../asset/Specification2.png";
+import Specification3 from "../../asset/Specification3.png";
+import About from "../../asset/About.png";
+import Best from "../../asset/Best.png";
+import Icon from "../../asset/Icon.png";
 
 export default function NextOne() {
   return (
